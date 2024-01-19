@@ -15,11 +15,8 @@ This project is a simple implementation of the ROT13 (rotate by 13 places) ciphe
 - Basic understanding of running C programs from the command line
 
 ## Compilation
-
 To compile the program, use a C compiler such as GCC. For example:
-
-```bash
-gcc -o rot13cipher lab10.c
+- gcc -o rot13cipher lab10.c
 
 ### Usage
 ** After compiling, you can run the program by passing a string as an argument **:
